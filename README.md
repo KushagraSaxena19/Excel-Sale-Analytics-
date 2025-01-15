@@ -42,11 +42,11 @@ Welcome to my repository showcasing my Excel analytics projects! These projects 
 
 ## 📂 **Repository Structure**
 - `/Sales Analytics/`
-  - `Customer Performance Report.xlsx`
-  - `Market Performance vs Target.xlsx`
+  - (https://github.com/KushagraSaxena19/Excel-Sale-Analytics-/blob/main/Customer%20Performance%20Report.pdf)
+  - (https://github.com/KushagraSaxena19/Excel-Sale-Analytics-/blob/main/Market%20Performance%20VS%20Target.pdf)
 - `/Financials Analytics/`
-  - `P&L Months.xlsx`
-  - `P&L Year.xlsx`
+  - (https://github.com/KushagraSaxena19/Excel-Sale-Analytics-/blob/main/Market%20Performance%20VS%20Target.pdf)
+  - (https://github.com/KushagraSaxena19/Excel-Sale-Analytics-/blob/main/P%26L%20Year.pdf)
 
 ---
 
@@ -60,7 +60,7 @@ Welcome to my repository showcasing my Excel analytics projects! These projects 
 ---
 
 ## 📢 **Contact**
-If you have any questions or feedback, feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-profile-link).
+If you have any questions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kushagra-saxena-93b808214/).
 
 ---
 
