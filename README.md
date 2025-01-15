@@ -7,37 +7,36 @@ Welcome to my repository showcasing my Excel analytics projects! These projects 
 ## 📊 **Sales Analytics**
 
 ### 1. **Customer Performance Report**
-- **Description**: Analyzes customer sales performance across various metrics to identify top-performing customers and improvement areas.
+- **Description**: A detailed analysis of customer sales trends, highlighting performance variations across years.
 - **Key Highlights**:
-  - Data cleaning and preparation.
-  - Usage of PivotTables and PivotCharts for detailed analysis.
-  - Visualized key metrics such as revenue, order frequency, and customer retention.
+  - Assessed sales growth percentages from 2019 to 2021.
+  - Identified top contributors and their exponential growth patterns.
+  - Evaluated variations by individual customer to uncover opportunities for tailored marketing.
 
 ### 2. **Market Performance vs Target**
-- **Description**: Evaluates market performance against pre-defined targets, helping identify underperforming regions or products.
+- **Description**: Comprehensive market analysis comparing actual performance with defined targets.
 - **Key Highlights**:
-  - Conditional formatting for target achievement visualization.
-  - Created dynamic charts for comparative analysis.
-  - Insights to support strategic business decisions.
+  - Analyzed performance gaps in over 20 countries for 2021 targets.
+  - Visualized percentage deviations from set goals to pinpoint underperforming regions.
+  - Provided actionable insights for enhancing regional sales strategies.
 
 ---
 
 ## 💼 **Financials Analytics**
 
-### 1. **Profit & Loss (P&L) Months**
-- **Description**: Monthly profit and loss analysis to track revenue and expenses, ensuring effective budget management.
-- **Key Highlights**:
-  - Integrated formulas for automated calculation of profit margins.
-  - Monthly trend visualization using line charts.
-  - Highlighted areas with significant variance in costs and revenues.
+### 1. **P&L Monthly Analysis**
+- **Purpose**: Monitor monthly revenue, costs, and profit margins.
+- **Features**:
+  - Automated profit margin calculations using integrated formulas.
+  - Trend visualization through line charts for clear performance tracking.
+  - Variance analysis to identify unusual cost or revenue changes.
 
-### 2. **Profit & Loss (P&L) Year**
-- **Description**: Yearly financial overview providing a comprehensive picture of organizational profitability.
-- **Key Highlights**:
-  - Summarized annual financial performance.
-  - Usage of dashboards for a high-level overview.
-  - Automated workflows to streamline reporting.
-
+### 2. **P&L Yearly Analysis**
+- **Purpose**: Gain a high-level overview of annual financial performance.
+- **Features**:
+  - Summarized metrics for net sales, COGS, and gross margins.
+  - Year-over-year comparison for trend analysis.
+  - Dashboards to support strategic decision-making.
 ---
 
 ## 📂 **Repository Structure**
